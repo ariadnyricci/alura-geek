@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "nome": "Joey Tribbiani Pizza",
+      "valor": "60",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwdd1a0028/images/funko/upload/65674-POP-TV-Friends---Joey-w-Pizza_GLAM-WEB.png?sw=800&sh=800",
+      "id": 1
+    },
+    {
+      "nome": "Rachel Green",
+      "valor": "70",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dwf9d28933/images/funko/upload/65680-POP-TV-Friends---Wedding-Rachel_GLAM-WEB.png?sw=800&sh=800",
+      "id": 2
+    },
+    {
+      "nome": "Monica Geller",
+      "valor": "45",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw28cc0d9b/images/funko/upload/65679a-POP-TV-Friends---Waitress-Monica-w-CH_GLAM-WEB.png?sw=800&sh=800",
+      "id": 3
+    },
+    {
+      "nome": "Phoebe Buffay",
+      "valor": "55",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw1bcc26dd/images/funko/upload/65677-POP-TV-Friends---Phoebe-w-Chicken-Pox_GLAM-WEB.png?sw=800&sh=800",
+      "id": 4
+    },
+    {
+      "nome": "Joey Tribbiani",
+      "valor": "35",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw249d8136/images/funko/32745-1.png?sw=800&sh=800",
+      "id": 5
+    },
+    {
+      "nome": "Monica Geller Cat",
+      "valor": "25",
+      "imagem": "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw3477886d/images/funko/54342-1.png?sw=800&sh=800",
+      "id": 6
+    } 
+  ]
+}
